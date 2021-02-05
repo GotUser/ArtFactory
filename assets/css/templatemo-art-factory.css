@@ -124,8 +124,8 @@ html[xmlns] .clearfix {
 
 ul,
 li {
-  padding: 0;
-  margin: 0;
+  padding: 5px;
+  margin: 5px 40px;
   list-style: disc;
 }
 
