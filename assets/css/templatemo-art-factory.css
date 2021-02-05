@@ -147,7 +147,7 @@ html,
 body {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
-  background-color: #fff;
+  background-color: #3a3d3f;
   font-size: 16px;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
@@ -175,7 +175,7 @@ ul {
 p {
   font-size: 15px;
   line-height: 25px;
-  color: #4a4a4a;
+  color: white;
 }
 
 /* 
@@ -185,7 +185,7 @@ global styles
 */
 html,
 body {
-  background: #fff;
+  background: #3a3d3f;
   font-family: "Roboto", sans-serif;
 }
 
@@ -723,7 +723,7 @@ welcome
   justify-content: center;
   background-image: url(../images/banner-bg.png);
   background-repeat: no-repeat;
-/*
+  /*
 TRY IT ... with or without CENTER CENTER
   background-position: center center; 
 */
@@ -870,7 +870,7 @@ about
 #about2 h5 {
   font-size: 26px;
   font-weight: 700;
-  color: #1e1e1e;
+  color: white;
   line-height: 40px;
   margin-bottom: 25px;
   letter-spacing: 0.5px;
