@@ -126,7 +126,7 @@ ul,
 li {
   padding: 0;
   margin: 0;
-  list-style: none;
+  list-style: disc;
 }
 
 header,
@@ -170,6 +170,7 @@ h6 {
 
 ul {
   margin-bottom: 0px;
+  color: white;
 }
 
 p {
