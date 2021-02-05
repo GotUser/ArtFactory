@@ -99,6 +99,7 @@ figcaption {
   padding: 0;
   border: 0;
   outline: 0;
+  color: white;
 }
 
 .clearfix:after {
@@ -166,6 +167,7 @@ h5,
 h6 {
   margin-top: 0px;
   margin-bottom: 0px;
+  color: white;
 }
 
 ul {
@@ -1134,6 +1136,10 @@ accordions
   font-weight: 500;
 }
 
+strong,
+b {
+  color: #4dd0f8;
+}
 @media (max-width: 765px) {
   #frequently-question .left-text {
     margin-bottom: 60px;
