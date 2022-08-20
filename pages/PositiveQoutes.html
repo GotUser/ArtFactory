@@ -18,20 +18,18 @@
     <link rel="stylesheet" type="text/css" href="../assets/css/templatemo-art-factory.css">
     <link rel="stylesheet" type="text/css" href="../assets/css/owl-carousel.css">
     <style> 
-body {
+        body {
+          position: relative;
+          animation-name: example;
+          animation-duration: 1s;  
+          animation-fill-mode: forwards;
+        }
 
-  position: relative;
-  animation-name: moveToTop;
-  animation-duration: 1s;  
-  animation-delay: 2s;
-  animation-fill-mode: both;
-}
-
-@keyframes moveToTop {
-  from {top: 300px;}
-  to {top: 0px; }
-}
-</style>
+        @keyframes example {
+          from {top: 200px;}
+          to {top: 0px; }
+        }
+    </style>
 
 </head>
 
